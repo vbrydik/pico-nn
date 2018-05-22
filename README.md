@@ -10,7 +10,7 @@ A pico-8 based neural network with genetic algorithms.
 
 Just copy code from here and use it in pico-8 or other lua app.
 
-You also can download pico-8 carts on [Lexaloffle BBS]() or [Itch]().
+You also can download pico-8 carts from Itch or Lexaloffle BBS.
 
 Also note that nn's draw function won't work in other lua applications, because its using pico-8's built-in functions.
 
