@@ -4,7 +4,7 @@ A pico-8 based neural network with genetic algorithms.
 
 [itch.io page](https://fartenko.itch.io/pico-nn)
 
-[Lexaloffle BBS post]()
+[Lexaloffle BBS post](https://www.lexaloffle.com/bbs/?tid=31313)
 
 ## Getting started
 
