@@ -7,8 +7,7 @@ A pico-8 based neural network with genetic algorithms.
 
 Just copy code from here and use it in pico-8 or other lua app.
 
-You also can download pico-8 carts [here](http://www.google.com).
-It is also published on [Lexaloffle BBS]() and [Itch]().
+You also can download pico-8 carts on [Lexaloffle BBS]() or [Itch]().
 
 Also note that nn's draw function won't work in other lua applications, because its using pico-8's built-in functions.
 
